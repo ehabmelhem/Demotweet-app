@@ -1,0 +1,24 @@
+.app {
+  margin: 0 auto;
+  /* text-align: center; */
+  display: flex;
+  position: relative;
+  top: 150px;
+  width: 200px;
+  justify-content: space-between;
+  align-items: center;
+}
+button {
+  height: 25px;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  background-color: #ffffff;
+  color: lightcoral;
+  border: 1px solid lightcoral;
+  border-radius: 10px;
+}
+button:hover {
+  background-color: lightcoral;
+  border: none;
+}

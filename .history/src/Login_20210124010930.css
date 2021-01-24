@@ -1,0 +1,23 @@
+.login {
+  width: fit-content;
+  margin: 0 auto;
+  position: relative;
+  top: 150px;
+}
+.pass {
+  margin-left: 8px;
+}
+/* .login__div {
+  position: relative;
+  left: 30px;
+
+  width: fit-content;
+  margin: 0 auto;
+} */
+.btn {
+  width: 100%;
+}
+.send__icon {
+  position: relative;
+  left: 50px;
+}

@@ -1,0 +1,7 @@
+.todo {
+  display: flex;
+  width: 250px;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 3px solid red;
+}

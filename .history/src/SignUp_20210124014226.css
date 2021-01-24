@@ -1,0 +1,25 @@
+.signUp {
+  width: fit-content;
+  margin: 0 auto;
+  position: relative;
+  top: 150px;
+}
+.pass {
+  margin-left: 10px;
+}
+.groub__buttons {
+  position: relative;
+  top: 20px;
+  left: 80px;
+  width: 180px !important;
+  display: flex;
+  align-items: center;
+  justify-content: space-between !important;
+}
+.btn_groub {
+  border-radius: 999px;
+}
+.messege__success {
+  position: relative;
+  bottom: -10px;
+}

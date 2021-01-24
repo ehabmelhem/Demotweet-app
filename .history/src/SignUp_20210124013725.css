@@ -1,0 +1,18 @@
+.signUp {
+  width: fit-content;
+  margin: 0 auto;
+  position: relative;
+  top: 150px;
+}
+.pass {
+  margin-left: 10px;
+}
+.groub__buttons {
+  position: relative;
+  top: 10px;
+  width: 100% !important;
+  border: 1px solid black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between !important;
+}

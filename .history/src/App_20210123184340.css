@@ -1,0 +1,13 @@
+.btn {
+  color: lightcoral !important;
+}
+.flex {
+  width: fit-content;
+  margin: 0 auto;
+  position: relative;
+  top: 150px;
+  display: flex;
+  align-items: center;
+  border: 1px solid lightcoral;
+  border-radius: 999px;
+}
